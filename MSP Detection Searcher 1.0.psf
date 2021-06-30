@@ -1,0 +1,822 @@
+﻿<File version="2">
+  <FileID>d644ac39-617f-425f-b27c-514605940ede</FileID>
+  <LastExport>131658769179296175</LastExport>
+  <Preview>iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAYAAAD0eNT6AAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAD2USURBVHhe7d3He1RXvu5xz8850/s/3PGZnnsH
+Z9DD7sFtP253u53d7XYHp3ZoBxyxTc455yyQAAVAIJQDylkIRBLKoUoCjLH9O+tdYmGZK4xASFXF
+/up59iOpasfPfnet39p7V9UTT/CDAAIIIIAAAggggAACCCCAAAIIIIAAAggggAACCCCAAAIIIIAA
+AggggAACCCCAAAIIIIAAAggggAACCCCAAAIIIIAAAggggAACCCCAAAIIIIAAAggggAACCCCAAAII
+IIAAAggggAACCCCAAAIIIIAAAggggAACCCCAAAIIIIAAAggggAACCCCAAAIIIIAAAggggAACCCCA
+AAIIIIAAAggggAACCCCAAAIIIIAAAggggAACCCCAAAIIIIAAAggggAACCCCAAAIIIIAAAggggAAC
+CCCAAAIIIIAAAggggAACCCCAAAIIIIAAAggggAACCCCAAAIIIIAAAggggAACCCCAAAIIIIAAAggg
+gAACCCCAAAIIIIAAAggggAACCCCAAAIIIIAAAggggAACCCCAAAIIIIAAAggggAACCCCAAAIIIIAA
+AggggAACCCCAAAIIIIAAAggggAACCCCAAAIIIIAAAggggAACCCCAAAIIIIAAAggggAACCCCAAAII
+IIAAAggggAACCCCAAAIIIIAAAggggAACCCCAAAIIIIAAAggggAACCCCAAAIIIIAAAggggAACCCCA
+AAIIIIAAAggggAACCCCAAAIIIIAAAggggAACCCCAAAIIIIAAAggggAACCCCAAAIIIIAAAggggAAC
+CCCAAAIIIIAAAggggAACCCCAAAIIIIAAAggggAACCCCAAAIIIIAAAggggAACCCCAAAIIIIAAAggg
+gAACCCCAAAIIIIAAAggggAACCCCAAAIIIIAAAggggAACCCCAAAIIIIAAAggggAACCCCAAAIIIIAA
+AggggAACCCCAAAIIIIAAAggggAACCCCAAAIIIIAAAggggAACCCCAAAIIIIAAAggggAACCCCAAAII
+IIAAAggggAACCCCAAAIIIIAAAggggAACCCCAAAIIIIAAAggggAACCCCAAAIIIIAAAggggAACCCCA
+AAIIIIAAAggggAACCCCAAAIIIIAAAggggAACCCCAAAIIIIAAAggggAACCCCAAAIIIIAAAggggAAC
+CCCAAAIIIIAAAggggAACCCCAAAIIIIAAAggggAACCCCAAAIIIIAAAggggAACCCCAAAIIIIAAAggg
+gAACCCCAAAIIIIAAAggggAACCCCAAAIIIIAAAggggAACCCCAAAIIIIAAAggggAACCCCAAAIIIIAA
+AggggAACCCCAAAIIIIAAAggggAACCCCAAAIIIIAAAggggAACCCCAAAIIIIAAAggggAACCCCAAAII
+IIAAAggggAACCCCAAAIIIIAAAggggAACCCCAAAIIIIAAAggggAACCCCAAAIIIIAAAggggAACCCCA
+AAIIIIAAAggggAACCCCAAAIIIIAAAggggAACCCCAAAIIIIAAAggggAACCCCAAAIIIIAAAggggAAC
+CCCAAAIIIIAAAggggAACCCCAAAIIIIAAAggggAACCCCAAAIIIIAAAggggAACCCCAAAIIIIAAAggg
+gAACCCCAAAIIIIAAAggggAACCCCAAAIIIIAAAggggAACCCCAAAIIIIAAAggggAACCCCAAAIIIIAA
+AggggAACCCCAAAIIIIAAAggggAACCCCAAAIIIIAAAggggAACCCCAAAIIIIAAAggggAACCCCAAAII
+IIAAAggggAACCCCAAAIIIIAAAggggAACCCCAAAIIIIAAAggggAACCCCAAAIIIIAAAggggAACCCCA
+AAIIIIAAAggggAACCCCAAAIIIIAAAggggAACCCCAAAIIIIAAAggggAACCCCAAAIIIIAAAggggAAC
+CCCAAAIIIIAAAggggAACCCCAAAIIIIAAAggggAACCCCAAAIIIIAAAlETmP3v//5v2a+88qfseQsW
+Z389Zx4DBmSADJABMkAGUiwDc+YsyJ43b2H2//2v/8p2hYyGX/75j//4t8IvvpprZY0XrfHikDVc
+GLB6BgzIABkgA2SADKRUBhouDFrDxUE7WVxlv/rVr+x+7f8TL730SnZZw0UrbLhiJyvb7VQVAwZk
+gAyQATJABlIxAyddG151bsD2Hjx6/wJg4eIl2a2dcTtVfc7ya84zYEAGyAAZIAORzcDp2/u+sO6C
+Fda7Qb8nM7hx82s7TNMX1HU88LSaxi/bzWNSywvrdHsd1X6HdS9pvmoFZbX3LwDmzlvgC4CfFqqF
+uzMCt4eChm4raOi1wsY+d5ag0wofdOUmA8c4D7bD8cKLDJABMjB9GXDtXHZxk2UWNlhWYeN9h0w3
+jsY9XXXOihsu2YnyVsssmNy0mr/G1TTF7mz8adcZ17wmv+wGyy5qtIJxbXN5a7edKqqcRAEwd0F2
+29UR3+AX1buh4bIVVDZZQXmdHwrzM6wgd4edPrHTCopO++c1XmnTFStpvDI2jRvKmjv9hle0dll5
+y1X/fOXZXv94GKfcPVd5tsdNNzaPBxk0b83zftNoPC1jMuOGeZU2ja37/eY9ts0/rbu2c/z23W96
+nn+wfY4XXmSADMx0BvQ6n36iytKyy9zvyskPx8/YgZxyO1bSbHuPllhGbtWdaQ+fqrasgnrLyr89
+uL8Pn6q587zG1TQ5btq0nApLd/MKy9ZzmW66zPw6N42bj/v76Om6n9bLPa91PejWtaRprH2qaOuZ
+fAHQ3jXqGsDLvnHTUFjZaCUdQ1ZQf87asp+xeNOn1nXqN3Zy/7tW3DzkGr2rllvR4isVYZW5hvB4
+WZOf9sCxEtufU2y55S22YW+mZRXV+aJADeXBE2W2cV+WP7VU3tJ1Z3l6To2ppg+NbPhb/2v6Inea
+Q/PS/xONE8bXqZMtacccZMOdQmSi+YbHtOyckkZfSYb5jp9/ye1GX49pG09VtvnxtE4ZeWf8OoV1
+D378/ilLWGBBBshAKmWgrKXT9mWWW767lq5etc6OT2Yobbxkh1zDneaKhyzXWKtTGc6sH3NtzJYD
+J2xbWq4f9HdOcYNvdzSOxtU0accr7eCxM1bizgTkV7tLCbqk4NZjX1aR7cw47Xr6DbbVTZ9+otw/
+V1Dj1k2Da4v3Zpb5dlbWle19luduBLzvTYBz3RmAcz3XXaPW6Scud7324vwSy1+x2I5tXG9nT/7Z
+rPcju1X6n3Z0+5vu+bjVuXcLrNp+0P41e6E1d47aqTOt9tq7s2xvVqEtWr/LrWyhzV21xZZu2mtL
+Nuy2vMqzvlf+2YJVtn7PUVuzM91t4NjZgprz/b5o2JZ+wmrd32WucT3T1u0Hv4FuWL3jkEc45hr1
+qvZet9EqIK76cULjq7+rz/XZiq0HbM2OdNuRcfLO81pOfs05vzyNp98VrgDxlZL7e+nGPa46q/Hr
+WKWzFuPWodyZaJy8qrP25kezbdfR01Z/cdgVOM22YM02W7Jxt5+PChr5MWBABsgAGUjdDFS0dVma
+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
+w9Lb2+t/q/HUc2qgNGj8np4eO3bsmJ9e4+hxjROKAv0uLCy0jo4OP28t6/Tp09bZ2Wnr16/365uR
+kWGXL1/2679w4ULbsGGDb9jHFxhh/fS45q/5aPl9fX131lkFkObd3t7uCwmtvxrJuro6O378uP99
+6tQp/9j4ddQ6a3s1v7BMzV/jhP81TiiExq9beD6sV9huzU9/axqto9ZF89D48gjrGIqWsKyQ0/Hb
+FYqWsG80bm1trRUXF/ttGRgY8Ps7rHMotsbvz7DPwnbfva/1vKYP+1nF2Pnz5y0vL88Xlo/z8cO2
+pWg7QgGQojuOhv+RvqCqcVTD98knn9jVq1dt1apVlpaW5v++dOmSb2yys7PtypUr/n81VvqtFz41
+xA0NDZafn+8bQY2Tk5NjZ8+e9Q2C5vHqq6/6x8vLy31Dqkbi+++/t40bN9oXX3xhc+fOtbKysju9
+UY1TWlrqGyf9zJo1yz7//HP/d1NTkz355JO2bds2W7dunW8cd+zYYdu3b7cFCxb4ddK2rFixwhcV
+Wr6Wq0ZTDaHWt6ioyLq7u33h8cEHH/j11N9aZ81z06ZNdvHiRf+41vuFF16wkpISP5+vvvrKfvjh
+B78dWmeto9ZBBYq2X39rmfX19d5BDaXmocc1T/2vYkX/d3V13Xle66UGWZaaz7lz5/z81bD+9a9/
+9Q22zN99911f5Gj7NT9to57T+vf39/tt1HI1ntZNj1dWVvrxVORpP6ogy8rKsrVr13rTzz77zA4e
+POjXR89r/UKxp2VqHioQtC7a7jNnzvh5a/my1PbJvbGx0bvq+ZMnT/rt0f7VPgsFIY0lr7lJkwEK
+AMKYNGFMYFGjRqOiosKefvppW7ZsmS8E9OL94osv2qFDh3zDumvXLt/bXrJkiW9M58yZYwUFBb5B
+VAOuxkQ9ZD2vBlnzUA9QDduzzz7rH9N8NI/du3f7hkcN2fvvv29vvfWWn4+KDjVEixcvtk8//dRy
+c3P9eCtXrrTf/va3vhFSA631VGOt5S5fvtza2tp8o/PPf/7T99BVDGg+6oV++eWX9uGHH9q8efP8
+eus5bZca1dWrV9sbb7zhH9N8d+7c6RvDt99+26+bGkI1ms8995xfJzW6Kg5kou3UOqqHq4ZX66+z
+Bmr4VKxofI0rN52pqK6u9rZqUDXOvn37/JmKo0eP2pYtW3wx9Mwzz9jvfvc7X0z95S9/8du3Z88e
+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
+AggggAACCCCAAAIIIIAAAggggAACCCCAAAIIIIAAAggggAACCCCAAAIIIIAAAggggAACCCCAAAII
+IIAAAggggAACCCCAAAIIIIAAAggggAACCCCAAAIIIIAAAggggAACCCCAAAIIIIAAAggggAACCCCA
+AAIIIIAAAggggAACCCCAAAIIIIAAAggggAACCCCAAAIIIIAAAggggAACCCCAAAIIIIAAAggggAAC
+CCCAAAIIIIAAAggggAACCCCAAAIIIIAAAggggAACCCCAAAIIIIAAAggggAACCCCAAAIIIIAAAggg
+gAACCCCAAAIIIIAAAggggAACCCCAAAIIIIAAAggggAACCCCAAAIIIIAAAggggAACCCCAAAIIIIAA
+AggggAACCCCAAAIIIIAAAggggAACCCCAAAIIIIAAAggggAACCCCAAAIIIIAAAggggAACCCCAAAII
+IIAAAggggAACCCCAAAIIIIAAAggggAACCCCAAAIIIIAAAggggAACCCCAAAIIIIAAAggggAACCCCA
+AAIIIIAAAggggAACCCCAAAIIIIAAAggggAACCCCAAAIIIIAAAggggAACCCCAAAIIIIAAAggggAAC
+CCCAAAIIIIAAAggggAACCCCAAAIIIIAAAggggAACCCCAAAIIIIAAAggggAACCCCAAAIIIIAAAggg
+gAACCCCAAAIIIIAAAggggAACCCCAAAIIIIAAAggggAACCCCAAAIIIIAAAggggAACCCCAAAIIIIAA
+AggggAACCCCAAAIIIIAAAggggAACCCCAAAIIIIAAAggggAACCCCAAAIIIIAAAggggAACCCCAAAII
+IIAAAggggAACCCCAAAIIIIAAAggggAACCCCAAAIIIIAAAggggAACCCCAAAIIIIAAAggggAACCCCA
+AAIIIIAAAggggAACCCCAAAIIIIAAAggggAACCCCAAAIIIIAAAggggAACCCCAAAIIIIAAAggggAAC
+CCCAAAIIIIAAAggggAACCCCAAAIIIIAAAggggAACCCCAAAIIIIAAAggggAACCCCAAAIIIIAAAggg
+gAACCCCAAAIIIIAAAggggAACCCCAAAIIIIAAAggggAACCCCAAAIIIIAAAggggAACCCCAAAIIIIAA
+AggggAACCCCAAAIIIIAAAggggAACCCCAAAIIIIAAAggggAACCCCAAAIIIIAAAggggAACCCCAAAII
+IIAAAggggAACCCCAAAIIIIAAAggggAACCCCAAAIIIIAAAggggAACCCCAAAIIIIAAAggggAACCCCA
+AAIIIIAAAggggAACCCCAAAIIIIAAAggggAACCCCAAAIIIIAAAggggAACCCCAAAIIIIAAAggggAAC
+CCCAAAIIIIAAAggggAACCCCAAAIIIIAAAggggAACCCCAAAIIIIAAAggggAACCCCAAAIIIIAAAggg
+gAACCCCAAAIIIIAAAggggAACCCCAAAIIIIAAAggggAACCCCAAAIIIIAAAggggAACCCCAAAIIIIAA
+AggggAACCCCAAAIIIIAAAggggAACCCCAAAIIIIAAAggggAACCCCAAAIIIIAAAggggAACCCCAAAII
+IIAAAggggAACCCCAAAIIIIAAAggggAACCCCAAAIIIIAAAggggAACCCCAAAIIIIAAAggggAACCCCA
+QHIL/A84yy/BqlP2PwAAAABJRU5ErkJggg==</Preview>
+  <Object type="System.Windows.Forms.Form, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="MSPDetectionSearcher" children="Controls">
+    <Property name="ClientSize">1066, 459</Property>
+    <Property name="Name">MSPDetectionSearcher</Property>
+    <Property name="Text">MSP Detection Searcher 1.0</Property>
+    <Event name="Load">MSPDetectionSearcher_Load</Event>
+    <Object type="System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="groupbox3" children="Controls">
+      <Property name="Location">12, 266</Property>
+      <Property name="Name">groupbox3</Property>
+      <Property name="Size">1042, 181</Property>
+      <Property name="TabIndex">2</Property>
+      <Property name="TabStop">False</Property>
+      <Object type="System.Windows.Forms.RichTextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="log" children="Controls">
+        <Property name="Dock">Fill</Property>
+        <Property name="Location">3, 16</Property>
+        <Property name="Name">log</Property>
+        <Property name="Size">1036, 162</Property>
+        <Property name="TabIndex">0</Property>
+        <Property name="Text">
+        </Property>
+      </Object>
+    </Object>
+    <Object type="System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="groupbox2" children="Controls">
+      <Property name="Location">12, 118</Property>
+      <Property name="Name">groupbox2</Property>
+      <Property name="Size">1042, 128</Property>
+      <Property name="TabIndex">1</Property>
+      <Property name="TabStop">False</Property>
+      <Object type="System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="panel_target_multiple" children="Controls">
+        <Property name="Location">3, 16</Property>
+        <Property name="Name">panel_target_multiple</Property>
+        <Property name="Size">541, 106</Property>
+        <Property name="TabIndex">2</Property>
+        <Property name="Visible">False</Property>
+        <Object type="System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="btn_MSIBrowse" children="Controls">
+          <Property name="Location">451, 44</Property>
+          <Property name="Name">btn_MSIBrowse</Property>
+          <Property name="Size">75, 32</Property>
+          <Property name="TabIndex">2</Property>
+          <Property name="Text">Browse</Property>
+          <Property name="UseVisualStyleBackColor">True</Property>
+          <Event name="Click">btn_MSIBrowse_Click</Event>
+        </Object>
+        <Object type="System.Windows.Forms.ComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="combobox_targets" children="Controls">
+          <Property name="FormattingEnabled">True</Property>
+          <Property name="Location">24, 50</Property>
+          <Property name="Name">combobox_targets</Property>
+          <Property name="Size">421, 21</Property>
+          <Property name="TabIndex">1</Property>
+          <Event name="SelectedIndexChanged">combobox_targets_SelectedIndexChanged</Event>
+        </Object>
+        <Object type="System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="label_targeted_multi" children="Controls">
+          <Property name="ForeColor">Red</Property>
+          <Property name="Location">48, 15</Property>
+          <Property name="Name">label_targeted_multi</Property>
+          <Property name="Size">427, 23</Property>
+          <Property name="TabIndex">0</Property>
+          <Property name="Text">Choose the product code form the dropdown or browse to your base MSI file</Property>
+          <Property name="TextAlign">MiddleCenter</Property>
+        </Object>
+      </Object>
+      <Object type="System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="panel_target_single" children="Controls">
+        <Property name="Dock">Left</Property>
+        <Property name="Location">3, 16</Property>
+        <Property name="Name">panel_target_single</Property>
+        <Property name="Size">541, 109</Property>
+        <Property name="TabIndex">1</Property>
+        <Object type="System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="label_target_single" children="Controls">
+          <Property name="Location">226, 25</Property>
+          <Property name="Name">label_target_single</Property>
+          <Property name="Size">115, 23</Property>
+          <Property name="TabIndex">2</Property>
+          <Property name="Text">Target Product Code</Property>
+          <Property name="TextAlign">MiddleCenter</Property>
+        </Object>
+        <Object type="System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="txtbox_productcode" children="Controls">
+          <Property name="Location">24, 51</Property>
+          <Property name="Name">txtbox_productcode</Property>
+          <Property name="Size">502, 20</Property>
+          <Property name="TabIndex">1</Property>
+          <Property name="TextAlign">Center</Property>
+        </Object>
+      </Object>
+      <Object type="System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="panel_patchcode" children="Controls">
+        <Property name="Dock">Right</Property>
+        <Property name="Location">550, 16</Property>
+        <Property name="Name">panel_patchcode</Property>
+        <Property name="Size">489, 109</Property>
+        <Property name="TabIndex">0</Property>
+        <Object type="System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="label_patchcode" children="Controls">
+          <Property name="Location">200, 25</Property>
+          <Property name="Name">label_patchcode</Property>
+          <Property name="Size">100, 23</Property>
+          <Property name="TabIndex">1</Property>
+          <Property name="Text">Patch Code GUID</Property>
+          <Property name="TextAlign">MiddleCenter</Property>
+        </Object>
+        <Object type="System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="txtbox_productversion" children="Controls">
+          <Property name="Location">19, 51</Property>
+          <Property name="Name">txtbox_productversion</Property>
+          <Property name="Size">446, 20</Property>
+          <Property name="TabIndex">0</Property>
+          <Property name="TextAlign">Center</Property>
+        </Object>
+      </Object>
+    </Object>
+    <Object type="System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="groupbox1" children="Controls">
+      <Property name="Location">12, 12</Property>
+      <Property name="Name">groupbox1</Property>
+      <Property name="Size">1039, 100</Property>
+      <Property name="TabIndex">0</Property>
+      <Property name="TabStop">False</Property>
+      <Object type="System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="lbl_browse" children="Controls">
+        <Property name="Dock">Top</Property>
+        <Property name="Font">Microsoft Sans Serif, 9.75pt</Property>
+        <Property name="Location">3, 16</Property>
+        <Property name="Name">lbl_browse</Property>
+        <Property name="Size">1033, 24</Property>
+        <Property name="TabIndex">2</Property>
+        <Property name="Text">Browse to the MSP patch file you want the tool to search.</Property>
+        <Property name="TextAlign">MiddleCenter</Property>
+      </Object>
+      <Object type="System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="txtbox_mspfiletoprocess" children="Controls">
+        <Property name="Location">6, 60</Property>
+        <Property name="Name">txtbox_mspfiletoprocess</Property>
+        <Property name="Size">942, 20</Property>
+        <Property name="TabIndex">1</Property>
+      </Object>
+      <Object type="System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="btn_open" children="Controls">
+        <Property name="Location">954, 53</Property>
+        <Property name="Name">btn_open</Property>
+        <Property name="Size">79, 32</Property>
+        <Property name="TabIndex">0</Property>
+        <Property name="Text">Browse</Property>
+        <Property name="UseVisualStyleBackColor">True</Property>
+        <Event name="Click">btn_open_Click</Event>
+      </Object>
+    </Object>
+  </Object>
+  <Code><![CDATA[Function Display-MsgBox
+{
+	# -Style:
+	# 16 Error
+	# 32 Question
+	# 48 Exclamation
+	# 64 Information
+	
+	# -ButtonSetup
+	# 0 OK
+	# 1 OKCancel
+	# 2 AbortRetryIgnore
+	# 3 YesNoCancel
+	# 4 YesNo
+	# 5 RetryCancel
+	
+	param (
+		[Parameter(Mandatory = $true, Position = 1)]
+		$Message,
+		[Parameter(Mandatory = $true, Position = 2)]
+		$Title,
+		[Parameter(Mandatory = $false, Position = 3)]
+		$Style = 64,
+		[Parameter(Mandatory = $false, Position = 4)]
+		$ButtonSetup = 0
+	)
+	[System.Windows.Forms.MessageBox]::Show($Message, $Title, $ButtonSetup, $Style)
+	
+}
+function Append-RichtextboxStatus
+{
+	PARAM (
+		[Parameter(Mandatory = $true)]
+		[string]$Message,
+		[string]$MessageColor = "Black",
+		[string]$DateTimeColor = "Gray",
+		[string]$Component,
+		[string]$ComponenetColor = "DarkCyan",
+		[String]$ComputerNameColor = "Blue")
+	
+	$SortableTime = get-date -Format "yyyy-MM-dd HH:mm:ss"
+	$Log.SelectionColor = $DateTimeColor
+	$Log.AppendText("[$SortableTime] ")
+	
+	IF ($PSBoundParameters['ComputerName'])
+	{
+		$Log.SelectionColor = $ComputerNameColor
+		$Log.AppendText(("$ComputerName ").ToUpper())
+	}
+	
+	IF ($PSBoundParameters['Component'])
+	{
+		$Log.SelectionColor = $ComponenetColor
+		$Log.AppendText("$Component ")
+	}
+	
+	$Log.SelectionColor = $MessageColor
+	$Log.AppendText("$Message`r")
+	$Log.Refresh()
+	$Log.ScrollToCaret()
+	
+	Write-Verbose -Message "$SortableTime $Message"
+}
+
+Function Read-OpenFileDialog
+{
+	param
+	(
+		[string]$WindowTitle,
+		[string]$InitialDirectory,
+		[string]$Filter = 'All files (*.*)|*.*',
+		[switch]$AllowMultiSelect
+	)
+	
+	Add-Type -AssemblyName System.Windows.Forms
+	$openFileDialog = New-Object System.Windows.Forms.OpenFileDialog
+	$openFileDialog.Title = $WindowTitle
+	if (![string]::IsNullOrWhiteSpace($InitialDirectory)) { $openFileDialog.InitialDirectory = $InitialDirectory }
+	$openFileDialog.Filter = $Filter
+	if ($AllowMultiSelect) { $openFileDialog.MultiSelect = $true }
+	$openFileDialog.ShowHelp = $true # Without this line the ShowDialog() function may hang depending on system configuration and running from console vs. ISE.
+	$openFileDialog.ShowDialog() > $null
+	if ($AllowMultiSelect) { return $openFileDialog.Filenames }
+	else { return $openFileDialog.Filename }
+}
+Function Convert-CompressedGuidToGuid
+{
+	<#
+	.SYNOPSIS
+		This converts a compressed GUID also known as a product code into a GUID.	
+	.DESCRIPTION
+		This function will typically be used to figure out the MSI installer GUID
+		that matches up with the product code stored in the 'SOFTWARE\Classes\Installer\Products'
+		registry path.
+	.EXAMPLE
+		Convert-CompressedGuidToGuid -CompressedGuid '2820F6C7DCD308A459CABB92E828C144'
+	
+		This example would output the GUID '{7C6F0282-3DCD-4A80-95AC-BB298E821C44}'
+	.PARAMETER CompressedGuid
+		The compressed GUID you'd like to convert.
+	#>
+	[CmdletBinding()]
+	[OutputType([System.String])]
+	param (
+		[Parameter(ValueFromPipeline, ValueFromPipelineByPropertyName, Mandatory)]
+		[ValidatePattern('^[0-9a-fA-F]{32}$')]
+		[string]$CompressedGuid
+	)
+	process
+	{
+		$Indexes = [ordered]@{
+			0 = 8;
+			8 = 4;
+			12 = 4;
+			16 = 2;
+			18 = 2;
+			20 = 2;
+			22 = 2;
+			24 = 2;
+			26 = 2;
+			28 = 2;
+			30 = 2
+		}
+		$Guid = '{'
+		foreach ($index in $Indexes.GetEnumerator())
+		{
+			$part = $CompressedGuid.Substring($index.Key, $index.Value).ToCharArray()
+			[array]::Reverse($part)
+			$Guid += $part -join ''
+		}
+		$Guid = $Guid.Insert(9, '-').Insert(14, '-').Insert(19, '-').Insert(24, '-')
+		$Guid + '}'
+	}
+}
+Function Convert-GuidToCompressedGuid
+{
+	<#
+	.SYNOPSIS
+		This converts a GUID to a compressed GUID also known as a product code.	
+	.DESCRIPTION
+		This function will typically be used to figure out the product code
+		that matches up with the product code stored in the 'SOFTWARE\Classes\Installer\Products'
+		registry path to a MSI installer GUID.
+	.EXAMPLE
+		Convert-GuidToCompressedGuid -Guid '{7C6F0282-3DCD-4A80-95AC-BB298E821C44}'
+	
+		This example would output the compressed GUID '2820F6C7DCD308A459CABB92E828C144'
+	.PARAMETER Guid
+		The GUID you'd like to convert.
+	#>
+	[CmdletBinding()]
+	[OutputType()]
+	param (
+		[Parameter(ValueFromPipeline, ValueFromPipelineByPropertyName, Mandatory)]
+		[string]$Guid
+	)
+	begin
+	{
+		$Guid = $Guid.Replace('-', '').Replace('{', '').Replace('}', '')
+	}
+	process
+	{
+		try
+		{
+			$Groups = @(
+			$Guid.Substring(0, 8).ToCharArray(),
+			$Guid.Substring(8, 4).ToCharArray(),
+			$Guid.Substring(12, 4).ToCharArray(),
+			$Guid.Substring(16, 16).ToCharArray()
+			)
+			$Groups[0..2] | foreach {
+				[array]::Reverse($_)
+			}
+			$CompressedGuid = ($Groups[0..2] | foreach { $_ -join '' }) -join ''
+			
+			$chararr = $Groups[3]
+			for ($i = 0; $i -lt $chararr.count; $i++)
+			{
+				if (($i % 2) -eq 0)
+				{
+					$CompressedGuid += ($chararr[$i + 1] + $chararr[$i]) -join ''
+				}
+			}
+			$CompressedGuid
+		}
+		catch
+		{
+			Write-Error $_.Exception.Message
+		}
+	}
+}
+
+Function Set-DetectionInformation
+{
+	$txtbox_productcode.Text = $script:msptoprocess.TargetProductCodes
+	if ($script:msptoprocess.TargetProductCodes.Count -gt '1') {
+		$Msiguidcompressed = Convert-GuidToCompressedGuid -Guid $combobox_targets.Text
+		$UninstallPatch = "Msiexec /package $($combobox_targets.Text) /uninstall $($txtbox_productversion.Text) /quiet REBOOT=`"ReallySuppress`""
+	}
+	elseif ($script:msptoprocess.TargetProductCodes.Count -eq '1') {
+		$Msiguidcompressed = Convert-GuidToCompressedGuid -Guid $txtbox_productcode.Text
+		$UninstallPatch = "Msiexec /package $($txtbox_productcode.Text) /uninstall $($txtbox_productversion.Text) /quiet REBOOT=`"ReallySuppress`""
+	}
+	
+	$Patchversioncompressed = Convert-GuidToCompressedGuid -Guid $txtbox_productversion.Text
+	
+	$InstallPatch = "Msiexec /p `"$mspname`" /norestart /qn"
+	
+	
+	$PatchDestectionRule = @"
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-18\Products\$Msiguidcompressed\Patches\$Patchversioncompressed]
+
+Detection Rule For Configuration Manager:
+SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-18\Products\$Msiguidcompressed\Patches\$Patchversioncompressed
+
+"@
+	
+	if ($script:allowremoval -eq '0') {
+		Append-RichtextboxStatus -Component 'Patch Table Information' -ComponenetColor 'Black' -Message "MSIPatchMetaDataTable AllowRemoval = 0, Patch does not allow uninstall" -MessageColor 'Red'
+		Append-RichtextboxStatus -Component 'Install' -ComponenetColor 'Magenta' -Message $InstallPatch
+		Append-RichtextboxStatus -Component 'Detection Registry Key' -ComponenetColor 'Red' -Message $PatchDestectionRule
+	} elseif ($script:allowremoval -eq '1') {
+		Append-RichtextboxStatus -Component 'Patch Table Information' -ComponenetColor 'Black' -Message "MSIPatchMetaDataTable AllowRemoval = 1, Patch does allow uninstall" -MessageColor 'Green'
+		Append-RichtextboxStatus -Component 'Install' -ComponenetColor 'Magenta' -Message $InstallPatch
+		Append-RichtextboxStatus -Component 'Uninstall' -ComponenetColor 'Blue' -Message $UninstallPatch
+		Append-RichtextboxStatus -Component 'Detection Registry Key' -ComponenetColor 'Red' -Message $PatchDestectionRule
+	}
+	
+}
+
+function Get-MSPInformation
+{
+	$filetoprocess = Read-OpenFileDialog -WindowTitle 'Select the MSP Patch File' -InitialDirectory 'C:\' -Filter 'MSP files (*.msp)|*.msp'
+	$txtbox_mspfiletoprocess.Text = $filetoprocess
+	$script:mspbasename = (Get-ChildItem $filetoprocess).BaseName
+	$script:mspname = (Get-ChildItem $filetoprocess).Name
+	$script:msptoprocess = Get-MSISummaryInfo -Path $filetoprocess
+	$mspdatatableinfo = Get-MSITable -Path $filetoprocess -Table 'MsiPatchMetadata' | Select-Object -Property Property, Value
+	$script:allowremoval = ($mspdatatableinfo | Where-Object -FilterScript { $_.Property -eq 'AllowRemoval' } | Select-Object -Property Value).Value
+	$txtbox_productversion.Text = $script:msptoprocess.PackageCode
+	
+	if ($script:msptoprocess.TargetProductCodes.Count -gt '1') {
+		$panel_target_single.Visible = $false
+		$panel_target_multiple.Visible = $true
+		#Load-ComboBox $combobox_targets (Get-Process)
+		Load-ComboBox $combobox_targets ($script:msptoprocess.TargetProductCodes)
+		
+	} elseif ($script:msptoprocess.TargetProductCodes.Count -eq '1') {
+		Set-DetectionInformation
+	}
+}
+
+function Get-RKMSIProductCode
+{
+	$msitoprocess = Read-OpenFileDialog -WindowTitle 'Select the MSI File' -InitialDirectory 'C:\' -Filter 'MSI files (*.msi)|*.msi'
+	$msiproductcode = (Get-MSIProperty -Path $msitoprocess -Property productcode | Select-Object -Property Value).Value
+
+	if ($combobox_targets.Items -contains $msiproductcode) {
+		$combobox_targets.SelectedItem = $msiproductcode
+		$label_targeted_multi.ForeColor = 'Green'
+		$label_targeted_multi.Text = 'Located product code in base MSI'
+	} else {
+		Append-RichtextboxStatus -Message 'Searching MSI for targeted products, outputting to console'
+		foreach ($item in $combobox_targets.Items) {
+			Append-RichtextboxStatus -MessageColor 'Red' -Message "$item"
+		}
+		Append-RichtextboxStatus -MessageColor 'Red' -Message "list doesn't contain $msiproductcode"
+		Append-RichtextboxStatus -MessageColor 'Red' -Message "This patch is not for that MSI"
+	}
+}
+
+$MSPDetectionSearcher_Load={
+	#TODO: Initialize Form Controls here
+	if (Get-Module -ListAvailable |
+	Where-Object { $_.name -eq 'MSI' })
+	{
+		Import-Module -Name 'MSI'
+		Append-RichtextboxStatus -Component 'MSI Module Check' -ComponenetColor 'Black' -MessageColor 'DarkGreen' -Message 'MSI Module is present'
+	}
+	else
+	{
+		Append-RichtextboxStatus -Component 'MSI Module Check' -ComponenetColor 'Black' -MessageColor 'Red' -Message 'Warning MSI module not present'
+		Append-RichtextboxStatus -Component 'MSI Module Check' -ComponenetColor 'Black' -MessageColor 'Red' -Message 'Please install, https://www.powershellgallery.com/packages/MSI/3.2.26.21626'
+	}
+}
+
+$btn_open_Click={
+	#TODO: Place custom script here
+	$label_targeted_multi.ForeColor = 'Red'
+	$label_targeted_multi.Text = 'Choose the product code form the dropdown or browse to your base MSI file'
+	$log.Clear()
+	Append-RichtextboxStatus -Component 'Console' -ComponenetColor 'Gray' -Message 'Console Cleared'
+	$txtbox_productcode.Clear()
+	$txtbox_productversion.Clear()
+	$combobox_targets.Items.Clear()
+	$combobox_targets.Text = $null
+	$panel_target_single.Visible = $true
+	$panel_target_multiple.Visible = $false
+	Get-MSPInformation
+}
+
+
+#region Control Helper Functions
+function Load-ComboBox 
+{
+<#
+	.SYNOPSIS
+		This functions helps you load items into a ComboBox.
+
+	.DESCRIPTION
+		Use this function to dynamically load items into the ComboBox control.
+
+	.PARAMETER  ComboBox
+		The ComboBox control you want to add items to.
+
+	.PARAMETER  Items
+		The object or objects you wish to load into the ComboBox's Items collection.
+
+	.PARAMETER  DisplayMember
+		Indicates the property to display for the items in this control.
+	
+	.PARAMETER  Append
+		Adds the item(s) to the ComboBox without clearing the Items collection.
+	
+	.EXAMPLE
+		Load-ComboBox $combobox1 "Red", "White", "Blue"
+	
+	.EXAMPLE
+		Load-ComboBox $combobox1 "Red" -Append
+		Load-ComboBox $combobox1 "White" -Append
+		Load-ComboBox $combobox1 "Blue" -Append
+	
+	.EXAMPLE
+		Load-ComboBox $combobox1 (Get-Process) "ProcessName"
+#>
+	Param (
+		[ValidateNotNull()]
+		[Parameter(Mandatory=$true)]
+		[System.Windows.Forms.ComboBox]$ComboBox,
+		[ValidateNotNull()]
+		[Parameter(Mandatory=$true)]
+		$Items,
+	    [Parameter(Mandatory=$false)]
+		[string]$DisplayMember,
+		[switch]$Append
+	)
+	
+	if(-not $Append)
+	{
+		$ComboBox.Items.Clear()	
+	}
+	
+	if($Items -is [Object[]])
+	{
+		$ComboBox.Items.AddRange($Items)
+	}
+	elseif ($Items -is [Array])
+	{
+		$ComboBox.BeginUpdate()
+		foreach($obj in $Items)
+		{
+			$ComboBox.Items.Add($obj)	
+		}
+		$ComboBox.EndUpdate()
+	}
+	else
+	{
+		$ComboBox.Items.Add($Items)	
+	}
+
+	$ComboBox.DisplayMember = $DisplayMember	
+}
+#endregion
+
+$combobox_targets_SelectedIndexChanged={
+	#TODO: Place custom script here
+	$log.Clear()
+	Append-RichtextboxStatus -Component 'Console' -ComponenetColor 'Gray' -Message 'Console Cleared'
+	Set-DetectionInformation
+	
+}
+
+$btn_MSIBrowse_Click={
+	#TODO: Place custom script here
+	$log.Clear()
+	Append-RichtextboxStatus -Component 'Console' -ComponenetColor 'Gray' -Message 'Console Cleared'
+	Get-RKMSIProductCode
+}
+]]></Code>
+  <Mode>1</Mode>
+  <Assemblies>
+    <Assembly>mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Assembly>
+    <Assembly>System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Assembly>
+    <Assembly>System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Assembly>
+    <Assembly>System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Assembly>
+    <Assembly>System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</Assembly>
+    <Assembly>System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Assembly>
+    <Assembly>System.DirectoryServices, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</Assembly>
+    <Assembly>System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Assembly>
+    <Assembly>System.ServiceProcess, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</Assembly>
+  </Assemblies>
+</File>
